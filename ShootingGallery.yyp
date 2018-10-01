@@ -50,7 +50,7 @@
             "Key": "3683c485-3466-44d9-ab02-cd8ea1d29d8f",
             "Value": {
                 "id": "a8930519-467f-4abe-9c92-6e672ac75662",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\object_hole\\object_hole.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -66,7 +66,7 @@
             "Key": "463e30bc-e35f-4596-af11-b4b881eb829c",
             "Value": {
                 "id": "ee1be9ab-369e-4816-824d-ee1403a8a70e",
-                "resourcePath": "sprites\\object_crosshair\\object_crosshair.yy",
+                "resourcePath": "sprites\\sprite_crosshair\\sprite_crosshair.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -76,6 +76,14 @@
                 "id": "470269e3-0854-40d9-aca4-b12ae431a881",
                 "resourcePath": "views\\4c1f6c05-aeac-4573-9d81-89a138387b0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5457c1e9-acd2-4986-bcb2-45580a753d9b",
+            "Value": {
+                "id": "a3dca06d-6f39-4b92-b205-244140c68360",
+                "resourcePath": "objects\\object_crosshair\\object_crosshair.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -90,7 +98,7 @@
             "Key": "573801b3-8de6-4eab-9bea-5e7dacde577f",
             "Value": {
                 "id": "d0f00ee4-1c49-4eed-8c4f-8bc3bfdddc02",
-                "resourcePath": "sprites\\instance_target\\instance_target.yy",
+                "resourcePath": "sprites\\sprite_target\\sprite_target.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -186,7 +194,7 @@
             "Key": "b051a019-604b-4f79-aeb7-d02c7777d75b",
             "Value": {
                 "id": "ea20f4dd-4eed-4c3e-9720-e867c6b13edc",
-                "resourcePath": "sprites\\instance_ducks\\instance_ducks.yy",
+                "resourcePath": "sprites\\sprite_ducks\\sprite_ducks.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -194,7 +202,7 @@
             "Key": "b3ba6599-ccd7-4b96-8a2a-a4484e102984",
             "Value": {
                 "id": "e7dcc7f4-9e57-4fa7-91b8-c0f26a5411d8",
-                "resourcePath": "sprites\\instance_target_duck\\instance_target_duck.yy",
+                "resourcePath": "sprites\\sprite_target_duck\\sprite_target_duck.yy",
                 "resourceType": "GMSprite"
             }
         },
