@@ -34,7 +34,7 @@
             "Key": "10b559bb-ab6a-45c2-8f46-c856315fe91e",
             "Value": {
                 "id": "dcfb61b0-ed82-4c28-b4f9-7ee879a492dd",
-                "resourcePath": "sprites\\instance_bullet_target\\instance_bullet_target.yy",
+                "resourcePath": "sprites\\sprite_bullet_target\\sprite_bullet_target.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "8bf671fa-3942-40a9-bda0-6ed6bc855e55",
             "Value": {
                 "id": "d2fd0200-fbd1-44eb-899f-0a874b2018e2",
-                "resourcePath": "sprites\\instance_hole\\instance_hole.yy",
+                "resourcePath": "sprites\\sprite_hole\\sprite_hole.yy",
                 "resourceType": "GMSprite"
             }
         },
