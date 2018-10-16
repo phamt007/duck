@@ -8,6 +8,12 @@ timeline_index = timeline_main_room;
 timeline_loop = 1;
 timeline_running = 1;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 57EE1A8A
+/// @DnDArgument : "var" "score"
+score = 0;
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 6875E7A6
