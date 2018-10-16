@@ -23,7 +23,7 @@ draw_text(50, 10, string("Score: ") + string(__dnd_score));
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 4ABC3228
-/// @DnDArgument : "x" "200"
+/// @DnDArgument : "x" "300"
 /// @DnDArgument : "y" "30"
 /// @DnDArgument : "sprite" "sprite_ammo"
 /// @DnDSaveInfo : "sprite" "e42d914e-849f-4af1-ab23-1185c9362750"
@@ -31,6 +31,6 @@ var l4ABC3228_0 = sprite_get_width(sprite_ammo);
 var l4ABC3228_1 = 0;
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 for(var l4ABC3228_2 = __dnd_lives; l4ABC3228_2 > 0; --l4ABC3228_2) {
-	draw_sprite(sprite_ammo, 0, 200 + l4ABC3228_1, 30);
+	draw_sprite(sprite_ammo, 0, 300 + l4ABC3228_1, 30);
 	l4ABC3228_1 += l4ABC3228_0;
 }
