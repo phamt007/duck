@@ -3,6 +3,13 @@
 /// @DnDHash : 4F5A9D8F
 draw_self();
 
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 67A4851E
+/// @DnDArgument : "font" "font_in_game"
+/// @DnDSaveInfo : "font" "4d622df5-aec1-414e-8fae-f04948a23551"
+draw_set_font(font_in_game);
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 02BF1D48
